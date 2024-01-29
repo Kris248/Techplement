@@ -11,30 +11,27 @@ This is the complete back end user registration using Mongo& Nodejs.
 #3) Run :: `nodemon`                          
 #4) a) Signup API :: `http://localhost:5000/signup`                         
     b) Login API :: `http://localhost:5000/login`                                 
-    c) Logout API :: `http://localhost:5000/logout`                                   
-    d) Profile Manage API :: `http://localhost:5000/update-profile`                                      
+    c) Logout API :: `http://localhost:5000/logout`                       
+    d) Profile Manage API :: `http://localhost:5000/update-profile`                                       
 
 ## Dummy json Data for Testing:                                       
 
 #1) For User Authentication 👇                                     
-
-`{                                
-  "email" : "employee1@outlook.com",                                 
-  "password" : "0000-0000"                                       
-}`                                       
-                                        
+`{
+  "email" : "employee1@outlook.com",
+  "password" : "0000-0000"
+}`
 #2) For Profile Management👇                                       
 
-`{                         
-  "userId": "65b754530492d539d72c3106",                      
-  "updatedProfile": {                     
-    "name": "Other User",                          
-    "phoneNumber": "52-5013-4225",                        
-    "address": "Address 2",                         
-    "gender": "FeMale"                         
-  }                                
-}                              
+`{
+  "userId": "65b754530492d539d72c3106",
+  "updatedProfile": {
+    "name": "Other User",
+    "phoneNumber": "52-5013-4225",
+    "address": "Address 2",
+    "gender": "FeMale"
+  }
+}
 `
-
                                         
 # ScreenShots of Backend API using 

@@ -1,11 +1,11 @@
-# Techplement [ BACKEND ]            
+## Techplement [ BACKEND ]            
 This is the complete back end user registration using Mongo& Nodejs.              
 
 ## Functionalities Include:             
 => Signup, Login, Logout. Included Password Hashing.                       
 => User Profile Management.                     
 
-# How to Run the Code & Access API in Postman:                            
+## How to Run the Code & Access API in Postman:                            
 #1) Clone Repository by running :     ```git clone https://github.com/Kris248/Techplement.git```                            
 #2) Enter cmd :                       ```npm install```                                         
 #3) Run :                             ```nodemon```         

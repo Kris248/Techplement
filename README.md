@@ -11,7 +11,7 @@ This is the complete back end user registration using Mongo& Nodejs.
 #3) Run :                             ```nodemon```         
 
 #4)     
-a) Signup API :            ```http://localhost:5000/signup```                         
+a) Signup API :            `http://localhost:5000/signup`                         
 b) Login API :             ```http://localhost:5000/login```                                 
 c) Logout API :            ```http://localhost:5000/logout```                       
 d) Profile Manage API :    ```http://localhost:5000/update-profile```                                       

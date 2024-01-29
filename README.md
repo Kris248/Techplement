@@ -41,12 +41,19 @@ d) Profile Manage API :    ```http://localhost:5000/update-profile```
 ```
                                                       
 # ScreenShots of Backend API using 
-![Screenshot 2024-01-29 130917](https://github.com/Kris248/Techplement/assets/92295923/f5631db4-6a3b-4f1e-a7db-0b244df786da)
-![Screenshot 2024-01-29 130827](https://github.com/Kris248/Techplement/assets/92295923/9152c545-f423-4dbd-8392-92c17280d069)
-![Screenshot 2024-01-29 130316](https://github.com/Kris248/Techplement/assets/92295923/7652e8ce-e45f-4a0b-b83c-cb6e97fd14cb)
-![Screenshot 2024-01-29 130258](https://github.com/Kris248/Techplement/assets/92295923/0a48262e-37c2-4095-ad4b-34c6714a4b96)
-![Screenshot 2024-01-29 130243](https://github.com/Kris248/Techplement/assets/92295923/5de8f78e-948c-48a3-ba13-6fc4d52414b7)
-![Screenshot 2024-01-29 130215](https://github.com/Kris248/Techplement/assets/92295923/6dad1c70-6b43-46c8-8e1c-4adcaa95ddf8)
-![Screenshot 2024-01-29 130159](https://github.com/Kris248/Techplement/assets/92295923/f5757cb3-56ff-429c-980c-c0be56fb0540)
 
+
+![Screenshot 2024-01-29 130827](https://github.com/Kris248/Techplement/assets/92295923/4e88930d-c32a-4fc9-be08-32347b14f79b)
+
+![Screenshot 2024-01-29 130316](https://github.com/Kris248/Techplement/assets/92295923/a21c7f83-c8cc-49aa-b10e-fb68bb4efb2a)
+
+![Screenshot 2024-01-29 130258](https://github.com/Kris248/Techplement/assets/92295923/1c1ad082-f18b-406d-a313-d23b8e0d57ff)
+
+![Screenshot 2024-01-29 130243](https://github.com/Kris248/Techplement/assets/92295923/c67e0286-e49f-4947-a5e4-f372a913a299)
+
+![Screenshot 2024-01-29 130215](https://github.com/Kris248/Techplement/assets/92295923/ff66d75d-0d3f-4db8-ab35-950825649b50)
+
+![Screenshot 2024-01-29 130159](https://github.com/Kris248/Techplement/assets/92295923/dbbf947a-29a6-4453-afc2-d03a410d5d25)
+
+![Screenshot 2024-01-29 130917](https://github.com/Kris248/Techplement/assets/92295923/70a9ff21-39bd-45c5-84c2-7d5716d4117f)
 

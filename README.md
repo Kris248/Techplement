@@ -1,7 +1,7 @@
-**Techplement**            
+# Techplement [ BACKEND ]            
 This is the complete back end user registration using Mongo& Nodejs.              
 
-# Functionalities Include:             
+## Functionalities Include:             
 => Signup, Login, Logout. Included Password Hashing.                       
 => User Profile Management.                     
 

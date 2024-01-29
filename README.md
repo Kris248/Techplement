@@ -17,13 +17,17 @@ This is the complete back end user registration using Mongo& Nodejs.
 ## Dummy json Data for Testing:                                       
 
 #1) For User Authentication 👇                                     
-`{
+```
+{
   "email" : "employee1@outlook.com",
   "password" : "0000-0000"
-}`
-#2) For Profile Management👇                                       
+}
+```
 
-`{
+#2) For Profile Management👇                                            
+
+```
+{
   "userId": "65b754530492d539d72c3106",
   "updatedProfile": {
     "name": "Other User",
@@ -32,6 +36,6 @@ This is the complete back end user registration using Mongo& Nodejs.
     "gender": "FeMale"
   }
 }
-`
-                                        
+```
+                                                      
 # ScreenShots of Backend API using 
